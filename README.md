@@ -5,7 +5,7 @@ Um sistema em desenvolvimento utilizando **Java** com **Spring Boot** para geren
 ---
 
 ## 🚀 Tecnologias Que Serão Utilizadas
-- Java 25
+- Java 17
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL (para futura persistência)
